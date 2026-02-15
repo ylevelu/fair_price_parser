@@ -183,6 +183,7 @@ Telegram: https://t.me/LBScalp, https://t.me/aslgw
 
 ---
 
+Project example: https://t.me/FairPriceAlert
 ## 🤝 Support
 
 For questions:  
